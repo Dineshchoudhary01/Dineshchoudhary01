@@ -21,7 +21,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Dineshchoudhary01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=dc967&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dc967&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dineshchoudhary01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ### ✍️ Random Dev Quote
