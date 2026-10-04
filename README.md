@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Dinesh Choudhary
 **B.Tech CSE Student (2024–2028) | MERN Stack Developer | Seeking Internship Opportunities**
 
-- 🔭 **I’m currently working on:** Jewel Nest — a full-stack MERN e-commerce app for imitation jewellery (JWT auth, RBAC, Cloudinary uploads, Razorpay integration)
-- 🌱 **I’m currently learning:** Multi-tenant SaaS architecture, Stripe/Razorpay subscription billing, and scaling Node.js/Express APIs
-- 👯 **I’m looking to collaborate on:**  MERN stack projects, hackathons, and open-source contributions
-- 🤔 **I’m looking for help with:** Real-world project feedback and code reviews
+- 🔭 **I'm currently working on:** FinTrack AI — a full-stack MERN + AI expense tracker with Gemini-powered auto-categorization, a RAG-style budget advisor, and bulk CSV import
+- 🌱 **I'm currently learning:** Multi-tenant SaaS architecture, Stripe/Razorpay subscription billing, and scaling Node.js/Express APIs
+- 👯 **I'm looking to collaborate on:** MERN stack projects, hackathons, and open-source contributions
+- 🤔 **I'm looking for help with:** Real-world project feedback and code reviews
 - 📫 **How to reach me:** dineshc5406@gmail.com
   
 ## 🌐 Socials:
